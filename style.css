@@ -1,0 +1,13 @@
+body {
+	background-color: #52DEE5; 
+}
+
+header h1 {
+	font-family: 'Cookie', cursive;
+}
+
+#container {
+	width: 80%;
+	margin: 0 auto;
+	background-color: #FADF63; 
+}
